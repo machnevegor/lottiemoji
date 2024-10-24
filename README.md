@@ -26,8 +26,8 @@ format.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/machnevegor/lottiemoji
-   cd lottiemoji
+   git clone https://github.com/machnevegor/memoji
+   cd memoji
    ```
 
 2. Install the dependencies using Poetry:
